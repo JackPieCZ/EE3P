@@ -1,6 +1,7 @@
 # EEPPP
 Kolář, J., Špetlík, R., Matas, J. (2024) Measuring Properties of Periodic Phenomena with an Event Camera. In Proceedings of the 27th Computer Vision Winter Workshop, 2024
 
+Data capture demonstarzion https://youtu.be/QlfQtvbaYy8
 
 01_line.rar
  - 01_line.raw
