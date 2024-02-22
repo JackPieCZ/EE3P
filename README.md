@@ -1,5 +1,5 @@
-# Measuring Properties of Periodic Phenomena with an Event Camera
-Kolář, J., Špetlík, R., Matas, J. (2024) Measuring Properties of Periodic Phenomena with an Event Camera. In Proceedings of the 27th Computer Vision Winter Workshop, 2024
+# EE3P: Event-based Estimation of Periodic Phenomena Properties
+Kolář, J., Špetlík, R., Matas, J. (2024) Measuring Speed of Periodical Movements with Event Camera. In Proceedings of the 27th Computer Vision Winter Workshop, 2024
 
 Paper Link: [arXiv](), [CVWW proceedings](https://cvww2024.sdrv.si/wp-content/uploads/sites/5/2024/02/CVWW2024_Proceedings.pdf)
 
