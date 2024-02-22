@@ -1,27 +1,39 @@
 # EEPPP
 Kolář, J., Špetlík, R., Matas, J. (2024) Measuring Properties of Periodic Phenomena with an Event Camera. In Proceedings of the 27th Computer Vision Winter Workshop, 2024
 
-Data capture demonstarzion https://youtu.be/QlfQtvbaYy8
+Paper Link (coming soon): [CVWW24]()
 
-01_line.rar
- - 01_line.raw
- - 01_line_0-006x_5000fps.avi
- - 01_line_tachometer_data.xml
+[Data Capture Demonstration](https://youtu.be/QlfQtvbaYy8)
 
-02_velcro.rar
- - 02_velcro.raw
- - 02_velcro_0-006x_5000fps.avi
- - 02_velcro_tachometer_data.xml
+## Data Structure:
 
-03_velcroside.rar
- - 03_velcro_side.raw
- - 03_velcroside_0-006x_5000fps.avi
- - 03_velcroside_tachometer_data.xml
+The data is organized into folders, each representing a specific experiment from the paper. Each folder contains the following files:
 
-04_speaker.rar
- - 04_speaker_g2_98Hz.raw
- - 04_speaker_0-006x_5000fps.avi
+- `.raw`: Raw event camera data in the [EVT 3.0](https://docs.prophesee.ai/stable/data/encoding_formats/evt3.html#chapter-data-encoding-formats-evt3) format.
+- `_slowdownfactor_fps.avi`: Slowed down video of the event stream.
+- `_tachometer_data.xml`: Ground truth data from the laser tachometer (if applicable).
 
-05_led.rar
- - 05_led_2000Hz.raw
- - 05_led_0-0001x_300000fps.avi
+### Folder Descriptions:
+
+- `01_line`: Experiment measuring the rotational speed of a disc with a high-contrast mark.
+- `02_velcro`: Experiment measuring the rotational speed of a disc with a uniform velcro surface.
+- `03_velcroside`: Experiment measuring the rotational speed of a disc with velcro, viewed from the side.
+- `04_speaker`: Experiment measuring the vibration frequency of a speaker diaphragm.
+- `05_led`: Experiment measuring the flashing frequency of an LED.
+
+**Note:**
+Not all experiments use the laser tachometer, hence the absence of the corresponding data file in some folders.
+
+## Usage:
+
+The data can be used for various purposes, including:
+- Reproducing the experiments in the paper.
+- Developing and testing new methods for frequency and rotational speed estimation using event cameras.
+- Comparing the performance of different event camera-based methods.
+
+## License:
+
+The data is provided under the GPL-3.0 license. Please refer to the LICENSE file for details.
+
+We encourage you to use this data responsibly and cite the paper if you use it in your work.
+
