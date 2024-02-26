@@ -13,6 +13,8 @@ The data is organized into folders, each representing a specific experiment from
 - `_slowdownfactor_fps.avi`: Slowed down video of the event stream.
 - `_tachometer_data.xml`: Ground truth data from the laser tachometer (if applicable).
 
+The files were compressed and split to multiple `.rar` files to meet GitHub file size guidelines.
+
 ### Folder Descriptions: 📁
 
 - `01_line`: Experiment measuring the rotational speed of a disc with a high-contrast mark.
