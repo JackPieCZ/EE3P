@@ -37,5 +37,15 @@ The data can be used for various purposes, including:
 
 The data is provided under the GPL-3.0 license. Please refer to the LICENSE file for details.
 
-We encourage you to use this data responsibly and cite the paper if you use it in your work. 
+We encourage you to use this data responsibly and cite the paper if you use it in your work:
+```
+@misc{kolář2024ee3p,
+      title={EE3P: Event-based Estimation of Periodic Phenomena Properties}, 
+      author={Jakub Kolář and Radim Špetlík and Jiří Matas},
+      year={2024},
+      eprint={2402.14958},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
