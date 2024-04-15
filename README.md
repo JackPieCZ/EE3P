@@ -6,6 +6,14 @@ Paper Link: [arXiv](https://arxiv.org/abs/2402.14958), [CVWW proceedings](https:
 
 Data Capture Demonstration: [Video](https://youtu.be/QlfQtvbaYy8)
 
+![Method's diagram](https://github.com/JackPieCZ/EE3P/assets/72486584/6a8b1c87-4ad4-4923-9bd3-48d17101067c)
+
+1. Data captured from an event camera is aggregated into non-overlapping arrays along the time axis,    
+2. A region of Interest and a template are selected, 
+3. 2D correlation of the template with arrays is computed,
+4. The frequency is calculated from the average of time deltas measured between correlation peaks.
+
+
 ## Data Structure: 🗃
 
 The data is organized into folders, each representing a specific experiment from the paper. Each folder contains the following files:
