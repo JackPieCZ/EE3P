@@ -1,3 +1,4 @@
+[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/2402.14958)
 # EE3P: Event-based Estimation of Periodic Phenomena Properties
 Kolář, J., Špetlík, R., Matas, J. (2024) Measuring Speed of Periodical Movements with Event Camera. In Proceedings of the 27th Computer Vision Winter Workshop, 2024
 
@@ -13,7 +14,7 @@ The data is organized into folders, each representing a specific experiment from
 - `_slowdownfactor_fps.avi`: Slowed down video of the event stream.
 - `_tachometer_data.xml`: Ground truth data from the laser tachometer (if applicable).
 
-The files were compressed and split to multiple `.rar` files to meet GitHub file size guidelines.
+The files were compressed and split into multiple `.rar` files to meet GitHub file size guidelines.
 
 ### Folder Descriptions: 📁
 
