@@ -48,13 +48,16 @@ The data is provided under the GPL-3.0 license. Please refer to the LICENSE file
 
 We encourage you to use this data responsibly and cite the paper if you use it in your work:
 ```
-@misc{kolář2024ee3p,
-      title={EE3P: Event-based Estimation of Periodic Phenomena Properties}, 
+@INPROCEEDINGS{kolář2024ee3p,
+      title={EE3P: Event-based Estimation of Periodic Phenomena Properties},
+      booktitle={Proceedings of the 27th Computer Vision Winter Workshop 2024},
+      pages={66-74},
       author={Jakub Kolář and Radim Špetlík and Jiří Matas},
       year={2024},
       eprint={2402.14958},
       archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      primaryClass={cs.CV},
+      doi={10.48550/ARXIV.2402.14958}
 }
 ```
 
