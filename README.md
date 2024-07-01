@@ -50,7 +50,7 @@ The data is provided under the GPL-3.0 license. Please refer to the LICENSE file
 
 We encourage you to use this data responsibly and cite the paper if you use it in your work:
 ```
-@INPROCEEDINGS{kolář2024ee3p,
+@INPROCEEDINGS{kolář_ee3p_2024,
       title={EE3P: Event-based Estimation of Periodic Phenomena Properties},
       booktitle={Proceedings of the 27th Computer Vision Winter Workshop 2024},
       pages={66-74},
