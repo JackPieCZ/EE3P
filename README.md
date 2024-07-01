@@ -1,5 +1,5 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2402.14958-b31b1b.svg)](https://arxiv.org/abs/2402.14958)
-# EE3P: Event-based Estimation of Periodic Phenomena Properties
+# EE3P: Event-based Estimation of Periodic Phenomena Properties (Dataset)
 Kolář, J., Špetlík, R., Matas, J. (2024) Measuring Speed of Periodical Movements with Event Camera. In Proceedings of the 27th Computer Vision Winter Workshop, 2024
 
 Paper Link: [arXiv](https://arxiv.org/abs/2402.14958), [CVWW proceedings](https://cvww2024.sdrv.si/wp-content/uploads/sites/5/2024/02/CVWW2024_Proceedings.pdf)
