@@ -1,5 +1,6 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2402.14958-b31b1b.svg)](https://arxiv.org/abs/2402.14958) [![DOI:10.48550/ARXIV.2402.14958](https://zenodo.org/badge/doi/10.48550/ARXIV.2402.14958.svg)](https://doi.org/10.48550/arXiv.2402.14958)
 
+(A newer method version with an enlarged dataset is presented in our more recent work. Find the dataset and method implementation in [EE3P3D repo](https://github.com/JackPieCZ/EE3P3D/).)
 
 # EE3P: Event-based Estimation of Periodic Phenomena Properties (Dataset)
 Kolář, J., Špetlík, R., Matas, J. (2024) Measuring Speed of Periodical Movements with Event Camera. In Proceedings of the 27th Computer Vision Winter Workshop, 2024
